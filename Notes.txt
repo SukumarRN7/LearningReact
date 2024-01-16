@@ -1,0 +1,2 @@
+EPISODE 1.
+ - what is crossorigin ?

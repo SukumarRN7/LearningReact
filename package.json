@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Learning React by Sukumar Abhijeet",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukumarRN7/LearningReact.git"
+  },
+  "author": "Sukumar Abhijeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SukumarRN7/LearningReact/issues"
+  },
+  "homepage": "https://github.com/SukumarRN7/LearningReact#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":["last 2 versions"]
+}
